@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background-color: green;
 }
 
 .main {
@@ -114,3 +115,5 @@
     flex-direction: column;
   }
 }
+
+
